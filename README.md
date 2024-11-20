@@ -1,4 +1,4 @@
-### Hello there👋, Welcome to my page
+### Hello there👋, and Welcome to my page!
 
   -  🌱 I’m currently learning Full-Stack development
   -  👨‍💻 I’m currently working on a project with 🤖 Telegram_bot api's

@@ -13,13 +13,13 @@
 #### 🔭 I’m open to discuss how to collaborate with you:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/vkuznietsov-bb066376/)
-[<img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' alt='facebook' height='24'>](https://www.facebook.com/kuz.v91)
-[<img src='./telegram-svgrepo-com (2).svg' alt='telegram' height='24'>](https://t.me/vkuznetsov28/)
+[<img src='./telegram-svgrepo-com (2).svg' alt='telegram' width='22' height='24'>](https://t.me/vkuznetsov28/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' alt='facebook' height='24'>](https://www.facebook.com/kuz.v91) 
+[<img src='./gmail.svg' alt='email' height='24'>](mailto:kuz.v@ukr.net) 
 
 <details>
   <summary>My Github Stats :zap: </summary>
- <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustle2live&show_icons=true&theme=solarized-light" />  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hustle2live&show_icons=true&theme=solarized-light" />   <img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustle2live" />
-  
+ <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustle2live&show_icons=true&theme=solarized-light" />  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hustle2live&show_icons=true&theme=solarized-light" /> <img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustle2live" />
 </details>
 
 

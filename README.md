@@ -1,14 +1,17 @@
-### Hello 👋, and wellcome to my page 
+### Hello there👋,
+Welcome to my page 
 
-- 🌱 I’m currently learning Full-Stack development, and working on a project with 🤖 Telegram_bot api's
+  -  🌱 I’m currently learning Full-Stack development
+  -  👨‍💻 I’m currently working on a project with 🤖 Telegram_bot api's
 
-  
 
-#### 👨‍💻 I'm primarily work with the following stack
+
+#### 👉 I'm primarily working with:
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> <img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> 
 
-#### 🔭 I'm open to discuss how to collaborate with you
+
+#### 🔭 I’m open to discuss how to collaborate with you:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/vkuznietsov-bb066376/)
 [<img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' alt='facebook' height='24'>](https://www.facebook.com/kuz.v91)

@@ -24,7 +24,7 @@
 
 <details>
   <summary>My Github Stats :zap: </summary>
- <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustle2live&show_icons=true&theme=solarized-light" />  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hustle2live&show_icons=true&theme=solarized-light" /> <img alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustle2live" />
+ <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustle2live&show_icons=true&theme=catppuccin_latte" height='230' />  <img height='140' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hustle2live&show_icons=true&theme=nord" /> <img height='160' alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustle2live" />
 </details>
 
 

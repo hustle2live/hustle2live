@@ -1,4 +1,4 @@
-## Hello there👋, and welcome to my page!
+### Hello there👋, and welcome to my page!
 
 #### About me:
   -  🌱 I’m currently learning Full-Stack development

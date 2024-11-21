@@ -1,8 +1,8 @@
 ## Hello there👋, and welcome to my page!
 
-### About me:
-  -  🌱 I’m currently learning **Full-Stack** development
-  -  👨‍💻 I’m currently working on a project with 🤖 **Telegram_bot api's**
+#### About me:
+  -  🌱 I’m currently learning Full-Stack development
+  -  👨‍💻 I’m currently working on a project with 🤖 Telegram_bot api's
 
 ###### &nbsp;
  
@@ -12,7 +12,7 @@
 
 
 
-#### 🔭 I’m open to discuss how to collaborate with you:
+#### 🔭 I’m open to discuss - how to collaborate with you:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/vkuznietsov-bb066376/)
 [<img src='./telegram-svgrepo-com (2).svg' alt='telegram' width='22' height='24'>](https://t.me/vkuznetsov28/)

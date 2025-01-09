@@ -1,8 +1,8 @@
 ### Hello there👋, and welcome to my page!
 
 #### About me:
-  -  🌱 I’m currently learning Full-Stack development
-  -  👨‍💻 I’m currently working on a project with 🤖 Telegram_bot api's
+  -  🌱 I’m currently learning OOP Design Patterns
+  -  👨‍💻 I’m currently working on React, Typescript, Next.js applications and web-pages 🚀🖥
 
 ###### &nbsp;
  

@@ -1,18 +1,19 @@
 ### Hello there👋, and welcome to my page!
 
 #### About me:
-  -  🌱 I’m currently learning OOP Design Patterns
-  -  👨‍💻 I’m currently working on React, Typescript, Next.js applications and web-pages 🚀🖥
+  -  🌱 Currently learning OOP Design Patterns
+  -  👨‍💻 Working on React/Node/Typescript/Next.js web-apps (freelance) 🚀🖥
+  -  🙋‍♂️ Open to collaborate
 
 ###### &nbsp;
  
-#### 👉 Current time I experienced with the following stack:
+#### 👉 Experienced with:
 
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code><code> <img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> </code>
 
 
 
-#### 🔭 I’m open to discuss - how to collaborate with you:
+#### 🔭 Write me a message:
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/vkuznietsov-bb066376/)
 [<img src='./telegram-svgrepo-com (2).svg' alt='telegram' width='22' height='24'>](https://t.me/vkuznetsov28/)

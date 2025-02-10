@@ -23,7 +23,7 @@
 ###### &nbsp;
 
 <details>
-  <summary><span>My Github Stats :zap: </span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hustle2live.github.io/My_resume/" target="_blank"> &#x25B6; my CV 🔗</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hustle2live.github.io/Landings/index.html" target="_blank" color="#000" > 🎬 A few of my frontend projects 🖼️ </a></summary>
+  <summary><span>My Github Stats :zap: </span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hustle2live.github.io/My_resume/" target="_blank"> &#x25B6; my CV 🔗</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hustle2live.github.io/Landings/index.html" target="_blank" color="#000" > 🎬 Portfolio 🖼️ </a></summary>
   <br />
  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hustle2live&show_icons=true&theme=catppuccin_latte" height='230' />  <img height='130' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=hustle2live&show_icons=true&theme=nord" /> <img height='160' alt="Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustle2live" />
 <br />

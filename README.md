@@ -1,9 +1,8 @@
 ### Hello there👋, and welcome to my page!
 
 #### About me:
-  -  🌱 Currently learning OOP Design Patterns
-  -  👨‍💻 Working on React/Node/Typescript/Next.js web-apps (freelance) 🚀🖥
-  -  🙋‍♂️ Open to collaborate
+  - 👨‍💻 Currently Working on Next.js/Typescript project 🚀
+  - Open to collaborate 🙋‍♂️
 
 ###### &nbsp;
  
@@ -34,6 +33,7 @@
 
 <!--
  ** my [CV 🔗](https://hustle2live.github.io/My_resume/)**
+  -  🌱  learning OOP Design Patterns
 
 **hustle2live/hustle2live** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

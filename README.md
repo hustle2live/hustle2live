@@ -2,7 +2,7 @@
 
 #### About me:
   - 👨‍💻 Currently Working on Next.js/Typescript project 🚀
-  - Open to collaborate 🙋‍♂️
+  - 🙋‍♂️ Open to collaborate
 
 ###### &nbsp;
  
